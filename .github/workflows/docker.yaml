@@ -7,9 +7,9 @@ on:
   #   branches: [ main ]
 
 env:
-  REGISTRY: registry.cn-hangzhou.aliyuncs.com
-  ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
-  ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
+  REGISTRY: ccr.ccs.tencentyun.com
+  ALIYUN_REGISTRY_USER: "100016245269"
+  ALIYUN_REGISTRY_PASSWORD: "Un#gCnBBoukk7"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
 
 jobs:
