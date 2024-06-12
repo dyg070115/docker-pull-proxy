@@ -1,4 +1,4 @@
-jenkins/inbound-agent:3248.v65ecb_254c298-1 ccr.ccs.tencentyun.com/baseimages/jenkins:inbound-agent-3248.v65ecb_254c298-1
-argoproj/rollouts-demo:red ccr.ccs.tencentyun.com/baseimages/argocd:rollouts-demo-red
-argoproj/rollouts-demo:blue ccr.ccs.tencentyun.com/baseimages/argocd:rollouts-demo-blue
-
+rancher/dind ccr.ccs.tencentyun.com/baseimages/jenkins:rancher-dind
+maven:3.6.3-jdk-8 ccr.ccs.tencentyun.com/baseimages/jenkins:maven-3.6.3-jdk-8
+justb4/jmeter:3.3 ccr.ccs.tencentyun.com/baseimages/jenkins:justb4-jmeter-3.3
+sonarsource/sonar-scanner-cli:10.0.3.1430_5.0.1  ccr.ccs.tencentyun.com/baseimages/jenkins:sonar-scanner-cli-10.0.3.1430_5.0.1
