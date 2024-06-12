@@ -1,2 +1,4 @@
-jenkins/inbound-agent:3248.v65ecb_254c298-1 ccr.ccs.tencentyun.com/baseimages/jenkins:3248.v65ecb_254c298-1
-argoproj/rollouts-demo:yellow ccr.ccs.tencentyun.com/baseimages/argocd:rollouts-demo-yellow
+jenkins/inbound-agent:3248.v65ecb_254c298-1 ccr.ccs.tencentyun.com/baseimages/jenkins:inbound-agent-3248.v65ecb_254c298-1
+argoproj/rollouts-demo:red ccr.ccs.tencentyun.com/baseimages/argocd:rollouts-demo-red
+argoproj/rollouts-demo:blue ccr.ccs.tencentyun.com/baseimages/argocd:rollouts-demo-blue
+
